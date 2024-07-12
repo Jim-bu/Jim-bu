@@ -9,10 +9,10 @@
 
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jim-bu&show_icons=true&theme=material-Synthwave '84&hide_border=true&bg_color=F6EFFFFF&icon_color=592EA1DA&text_color=2A2A2AFF&title_color=754D83FF&count_private=true" width=58% />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jim-bu&show_icons=true&theme=material-Synthwave'84&hide_border=true&bg_color=F6EFFFFF&icon_color=592EA1DA&text_color=2A2A2AFF&title_color=754D83FF&count_private=true" width=58% />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jim-bu&layout=donut&show_icons=true&theme=material-Synthwave '84&hide_border=true&bg_color=525283FF&icon_color=8D49FFFF&text_color=EBDDEBFF&title_color=EBCAEBFF&count_private=true&exclude_repo=Face-Transfer-Application" width=39.5% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jim-bu&layout=donut&show_icons=true&theme=material-Synthwave'84&hide_border=true&bg_color=525283FF&icon_color=8D49FFFF&text_color=EBDDEBFF&title_color=EBCAEBFF&count_private=true&exclude_repo=Face-Transfer-Application" width=39.5% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jim-bu&theme=react-dark&bg_color=F6EFFFFF&hide_border=true&line=754D83FF&color=754D83FF" width=98%/>
