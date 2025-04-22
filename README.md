@@ -7,7 +7,10 @@
 <br/>
 
 <div align="center">
-- 🌱 I’m currently learning SSAFY
+- 🌱 I'm currently in the SSAFY (Samsung Software Academy For Youth)
+<br/>
+      training program, focusing on software engineering and problem solving.
+
 <br/>
 - 👯 As a hybrid talent, I’m skilled in both planning and development.
 <br/>
