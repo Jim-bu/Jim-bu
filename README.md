@@ -11,9 +11,12 @@
   -->
 
 <center>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ttomi0606)](https://solved.ac/ttomi0606/)
+<a href="https://solved.ac/ttomi0606/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ttomi0606" alt="Solved.ac Profile"/>
+</a>
 
-</a>    
+</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Jim-bu&show_icons=true&theme=material-Synthwave'84&hide_border=true&bg_color=F6EFFFFF&icon_color=592EA1DA&text_color=2A2A2AFF&title_color=754D83FF&count_private=true" width=58% />
 </a>
